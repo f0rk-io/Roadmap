@@ -1,7 +1,7 @@
-##Statuts - Association f0rk
+Statuts - Association f0rk
+===
 
-
-##TITRE I : FORME - OBJET - DÉNOMINATION - SIÈGE – DURÉE
+## TITRE I : FORME - OBJET - DÉNOMINATION - SIÈGE – DURÉE
 Article Préliminaire
 Toutes les personnes membres de l’association “f0rk” s’engagent à respecter les présents statuts ainsi que ses annexes.
 
@@ -91,7 +91,7 @@ Les membres démissionnaires ou exclus sont tenus au paiement des cotisations ar
 Le patrimoine de l’association répond seul des engagements contractés en son nom, sans qu’aucun des membres ou des administrateurs ne puisse être personnellement responsable de ces engagements.
 
 
-##TITRE III : ADMINISTRATION
+## TITRE III : ADMINISTRATION
 
 **Article 9 - Conseil d’administration**
 
@@ -157,7 +157,7 @@ Le Règlement intérieur s’applique à tous les membres de l’Association, au
 L’adhésion aux Statuts emporte de plein droit adhésion au Règlement intérieur.
 
 
-##TITRE IV : ASSEMBLÉES GÉNÉRALES
+## TITRE IV : ASSEMBLÉES GÉNÉRALES
 
 **Article 15 - Composition et époque de réunion**
 
@@ -220,7 +220,7 @@ Si cette condition n’est pas remplie, l’Assemblée Générale Extraordinaire
 
 Les délibérations de l’Assemblée Générale des membres sont constatées par des procès-verbaux rédigés en français et signés par le président et secrétaire. Les copies ou extraits de ces procès-verbaux, à produire en justice ou ailleurs, sont signés par le Président de l’Association ou par deux administrateurs.
 
-##TITRE V : RESSOURCES DE L’ASSOCIATION
+## TITRE V : RESSOURCES DE L’ASSOCIATION
 
 **Article 21 - Ressources annuelles**
 
@@ -255,7 +255,7 @@ Article 24 - Comptes
 
 Les comptes sont soumis chaque année à l’examen du Conseil d’Administration de l’Association dans la séance qui précède l’Assemblée Générale Ordinaire.
 
-##TITRE VI : DISSOLUTION - LIQUIDATION
+## TITRE VI : DISSOLUTION - LIQUIDATION
 Article 25 - Dissolution / Liquidation
 
 
@@ -264,7 +264,7 @@ En aucun cas les membres de l’Association ne pourront se voir attribuer une pa
 Le produit net de la liquidation sera dévolu à une association ayant un objet similaire ou à tout établissement public ou privé reconnu d’utilité publique et qui sera désigné par l’Assemblée Générale Extraordinaire des membres.
 Le liquidateur procédera, aux frais de l’Association, aux déclarations en préfecture et à une publication au Journal Officiel.
 
-##TITRE VII : FORMALITÉS
+## TITRE VII : FORMALITÉS
 
 
 Les présents statuts ont été adoptés en Assemblée Générale constitutive tenue au siège social de l’Association le XX XX 2017.
